@@ -1,0 +1,8 @@
+h1 { color: purple; }
+
+p {border-style: double;
+   border-width: 5px;
+   padding: 20px;
+   margin-right: 500px;
+   margin-top: 5px;
+   margin-left: 10px; }
